@@ -1,4 +1,4 @@
-# Atliq_Grand_Hospitality_Insights---Python
+# Atliq_Grand_Hospitality_Insights-Python
 
 ## Introduction
 This project focuses on analyzing key performance metrics for Atliq Grand, a leading hotel in the hospitality industry. The aim is to provide actionable insights that help the management enhance operational efficiency, improve customer satisfaction, and optimize revenue. By leveraging data analytics tools, the project presents a comprehensive view of the hotel's business performance.
